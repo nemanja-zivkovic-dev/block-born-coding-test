@@ -2,6 +2,9 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "api": "apps/api"
+    "api": "apps/api",
+    "block-born-leaderboard-app": "apps/block-born-leaderboard-app",
+    "block-born-leaderboard-app-e2e": "apps/block-born-leaderboard-app-e2e",
+    "shared-types": "libs/shared-types"
   }
 }
