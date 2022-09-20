@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "start": "nx serve",
+    "start-app": "nx run block-born-leaderboard-app:serve",
     "build": "nx build",
     "test": "nx test"
   },
